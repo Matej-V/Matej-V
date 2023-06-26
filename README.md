@@ -34,8 +34,6 @@ Apart from my academic pursuits, I have an adventurous side. Mountain climbing a
 ## Others
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Matej-V/)
 
-<div style="text-align:center">
-
 ## 📫 Get in Touch
 
 If you'd like to collaborate on a project, discuss a coding challenge, or simply chat about technology or mountain climbing, feel free to reach out to me. You can connect with me through the following channels:
@@ -49,7 +47,6 @@ If you'd like to collaborate on a project, discuss a coding challenge, or simply
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Matej-V)](https://github.com/Matej-V)
 
-</div>
 
 
 
