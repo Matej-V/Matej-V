@@ -1,6 +1,6 @@
 
 ## 👋 Hello! I'm Matej,
-a 21-year-old student at the **Faculty of Information Technology BUT**. I have a passion for coding and exploring the world of technology. Currently, I am focused on expanding my knowledge and skills mainly in Python, Java, C/C++. I find great interest in the fields of Machine Learning and Natural Language Models, where I enjoy experimenting with algorithms and creating intelligent solutions.
+a 22-year-old student at the **Faculty of Information Technology BUT**. I have a passion for coding and exploring the world of technology. Currently, I am focused on expanding my knowledge and skills mainly in Python, Java, C/C++. I find great interest in the fields of Machine Learning and Natural Language Models, where I enjoy experimenting with algorithms and creating intelligent solutions.
 
 Apart from my academic pursuits, I have an adventurous side. Mountain climbing and hiking are my favorite hobbies. Exploring nature and challenging myself in the great outdoors provide me with a break from the digital world.🌱</p>
 
